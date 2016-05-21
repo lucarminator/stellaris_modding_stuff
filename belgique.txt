@@ -3,8 +3,13 @@ Idées du belge
 21/05/2016
 
 Eternal Empire : [gouvernement avancé] leader immortel, -10...15?% ship upkeep, +2 core planets 
-Neo-Feudal Monarchy/Empire : +25% tolérance esclavage, Can build an oversized ship, réduction maintenance armée/flotte MAIS -1 core planet
-Nomades/"hordes"/clan : -30% ship upkeep, -50% naval capacity, bonus de migration machin machin
 Hive Mind : [gouvernement avancé] 100% slavery tolerance, -15% ethics drift [collectiviste/fan. col uniquement]
 Fédération : +10% happiness, +1 leader pool size MAIS -1 core planet
 Confédération : [gouvernement avancé] +20% happiness, +2 leader pool size MAIS -2...1 core planet
+
+Idées à inclure dans le mod (éventuellement) : 4 points ethics au lieu de 3 + meilleurs traits ?
+
+Clans (monarchie) : -20% maintenance armée, +20% dégats armée, armée d'élite
+Megacorporation [review] : +25% crédits, +10% minerais MAIS +25% build cost (bâtiments)
+Neo-Feudal Monarchy : +25% tolérance esclavage, Can build an oversized ship, réduction maintenance armée/flotte 10% MAIS -1 core planet
+Neo-Feudal Empire : +50% tolérance esclavage, Can build an oversized ship, réduction maintenance armée/flotte 15% MAIS -1(2?) core planet
