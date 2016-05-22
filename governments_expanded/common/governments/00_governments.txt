@@ -1176,35 +1176,6 @@ despotic_empire = {
 	upgrade = star_empire
 }
 
-eternal_empire = {
-	can_build_ruler_military_station = yes
-	has_heir = yes
-	use_regnal_names = yes
-	
-	potential = {
-		hidden_trigger = { NOT = { is_country_type = fallen_empire } }
-	}
-
-	ethics = {
-		NOT = { has_ethic = "ethic_individualist" }
-		NOT = { has_ethic = "ethic_fanatic_individualist" }
-	}
-	
-	ruler_title = RT_EMPEROR
-	ruler_title_female = RT_EMPRESS
-	heir_title = HT_CROWN_PRINCE
-	heir_title_female = HT_CROWN_PRINCESS
-	
-	default_pop_factions = { loyalist }
-	
-	modifier = {
-		leader_age = 2000
-		ship_upkeep_mult = -0.10
-		country_core_sector_planet_cap = 2
-	}
-	pickable_at_start = no
-}
-
 # Advanced Generic Autocracy
 star_empire = {
 	prerequisites = { "tech_galactic_administration" }
