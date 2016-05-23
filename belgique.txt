@@ -13,3 +13,7 @@ Clans (monarchie) : -20% maintenance armée, +20% dégats armée, armée d'élit
 Megacorporation [review] : +25% crédits, +10% minerais MAIS +25% build cost (bâtiments)
 Neo-Feudal Monarchy : +25% tolérance esclavage, Can build an oversized ship, réduction maintenance armée/flotte 10% MAIS -1 core planet
 Neo-Feudal Empire : +50% tolérance esclavage, Can build an oversized ship, réduction maintenance armée/flotte 15% MAIS -1(2?) core planet
+
+23/05
+
+Eternal empire : la station unique est assez inutile dans l'ensemble, car tu ne peux en construire qu'une (vu que ton empereur est immortel). remplacer par un autre bonus ?/augmenter un bonus déjà existant ?
