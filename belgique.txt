@@ -17,3 +17,4 @@ Neo-Feudal Empire : +50% tolérance esclavage, Can build an oversized ship, réd
 23/05
 
 Eternal empire : la station unique est assez inutile dans l'ensemble, car tu ne peux en construire qu'une (vu que ton empereur est immortel). remplacer par un autre bonus ?/augmenter un bonus déjà existant ?
+		DEATH STAR OR BUST
