@@ -1,5 +1,5 @@
 name="Governments Expanded"
-path="mod/government_expanded"
+path="mod/governments_expanded"
 tags={
 	"Whatever"
 }

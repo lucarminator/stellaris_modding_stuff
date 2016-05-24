@@ -1,3 +1,59 @@
+clan_alliance = {
+	potential = {
+		hidden_trigger = { NOT = { is_country_type = fallen_empire } }
+	}
+
+	ethics = {
+		AND = {
+			OR = {
+				has_ethic = "ethic_militarist"
+				has_ethic = "ethic_fanatic_militarist"
+			}
+			has_ethic = "ethic_individualist"
+			}
+		NOT = { has_ethic = "ethic_fanatic_collectivist" }
+		NOT = { has_ethic = "ethic_fanatic_individualist" }
+	}
+	
+	modifier = {
+		army_upkeep_mult = -0.2
+		army_damage_mult = 0.2
+		
+	}
+	
+	election_term_years = 0
+	election_type = democratic
+	can_have_emergency_elections = yes
+	emergency_election_cost = 250
+	
+	max_election_candidates = 4
+	election_candidates = {
+		modifier = {
+			add = 1000
+			OR = {
+				leader_class = ruler
+				AND = {
+					exists = pop_faction
+					pop_faction = {
+						is_scope_valid = yes
+						is_pop_faction_type = loyalist
+					}
+				}
+			}
+		}
+		modifier = {
+			add = 100
+			OR = {
+				leader_class = admiral
+				leader_class = general
+			}
+		}
+	}
+	
+	ruler_title = RT_ARCHON
+	upgrade = ordered_stratocracy
+}
+
 eternal_empire = {
 	can_build_ruler_military_station = yes
 	has_heir = yes

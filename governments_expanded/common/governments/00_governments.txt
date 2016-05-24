@@ -1096,7 +1096,6 @@ plutocratic_oligarchy = {
 
 # Advanced Generic Oligarchy
 mega_corporation = {
-	prerequisites = { "tech_galactic_administration" }
 	
 	potential = {
 		hidden_trigger = { NOT = { is_country_type = fallen_empire } }
@@ -1142,8 +1141,6 @@ mega_corporation = {
 	}
 	
 	ruler_title = RT_CEO
-	
-	pickable_at_start = no
 }
 
 # Generic Autocracy
