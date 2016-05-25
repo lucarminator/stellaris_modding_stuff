@@ -718,8 +718,10 @@ despotic_hegemony = {
 		science_ship_survey_speed = 0.10
 	}
 	
+	election_type = oligarchic
+	election_term_years = 0
+	
 	ruler_title = RT_OVERLORD
-	heir_title = HT_DEPUTY_OVERLORD
 	upgrade = ai_overlordship
 }
 
@@ -747,8 +749,10 @@ ai_overlordship = {
 		science_ship_survey_speed = 0.20
 	}
 	
+	election_type = oligarchic
+	election_term_years = 0
+	
 	ruler_title = RT_HIGH_TECHNICIAN
-	heir_title = HT_SENIOR_TECHNICIAN
 	
 	pickable_at_start = no
 }

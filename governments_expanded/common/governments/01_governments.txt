@@ -50,8 +50,8 @@ clan_alliance = {
 		}
 	}
 	
-	ruler_title = RT_ARCHON
-	upgrade = ordered_stratocracy
+	ruler_title = RT_CHIEF
+	upgrade = martial_demarchy
 }
 
 eternal_empire = {
